@@ -1,3 +1,4 @@
+# currently work in progress
 ## Setup and Usage Guide
 
 This guide will walk you through the steps to convert voice data, train a model, optimize it, and start the engine for your speech recognition project.
